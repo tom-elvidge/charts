@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  kevin-base:
+  - apiVersion: v2
+    created: "2024-04-27T19:16:29.300358182Z"
+    description: Base chart for my homelab cluster named kevin
+    digest: 0cea4bd65d03d2242913a4cae48de36605dcc840ee73d4a8020e9e7fa0bfd1c6
+    name: kevin-base
+    type: application
+    urls:
+    - https://github.com/tom-elvidge/charts/releases/download/kevin-base-0.4.4/kevin-base-0.4.4.tgz
+    version: 0.4.4
+generated: "2024-04-27T19:16:29.300369042Z"
