@@ -1,0 +1,7 @@
+apiVersion: v2
+name: kevin-base
+description: Base chart for my homelab cluster named kevin
+
+type: application
+
+version: 0.4.3
